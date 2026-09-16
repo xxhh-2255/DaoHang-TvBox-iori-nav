@@ -5,14 +5,14 @@
         {
             "name": "会看直播",
             "type": 0,
-            "url": "http://itv.hh111.cloudns.org/live/live.json",
+            "url": "./tv/live.json",
             "playerType": 2
         },
         {
             "name": "移动IPTV",
             "type": 0,
             "playerType": 2,
-            "url": "http://itv.hh111.cloudns.org/live/live.json",
+            "url": "./tv/live.json",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
