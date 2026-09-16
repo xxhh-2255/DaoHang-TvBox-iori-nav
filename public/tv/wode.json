@@ -1,9 +1,9 @@
 {
 "storeHouse":
 [
-{"sourceName":"我的①号库","sourceUrl":"http://itv.hh111.cloudns.org/live/tvbox/wode1.json"}, 
+{"sourceName":"我的①号库","sourceUrl":"https://tv.hh111.cloudns.org/tv/wode1.json"}, 
 
-//{"sourceName":"我的②号库","sourceUrl":"http://itv.hh111.cloudns.org/live/tvbox/wode2.json"}, 
+//{"sourceName":"我的②号库","sourceUrl":"https://tv.hh111.cloudns.org/tv/wode2.json"}, 
 
 //{"sourceName":"影视仓体验②号库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E2%91%A1.txt"},     
 //{"sourceName":"jar资源库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
