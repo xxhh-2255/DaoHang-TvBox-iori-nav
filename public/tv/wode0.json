@@ -1,5 +1,5 @@
 {
-    "spider": "http://itv.hh111.cloudns.org/live/tvbox/wodecang/qiaoji/fasdsdsa.jar;md5;c7b9d83fe6bf8b1b0c58c3ca50f2dd2f",
+    "spider": "./tv/wodecang/qiaoji/fasdsdsa.jar;md5;c7b9d83fe6bf8b1b0c58c3ca50f2dd2f",
     "wallpaper": "https://bing.img.run/uhd.php",
     "lives": [
         {
