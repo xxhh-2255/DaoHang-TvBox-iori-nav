@@ -17,23 +17,13 @@
 
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/小米/api.json", "name": "小米" },
-
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/肥猫/api.json", "name": "肥猫" },
-
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/王二小/api.json", "name": "王二小" },
 
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/摸鱼儿/api.json", "name": "摸鱼儿" },
 
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/天天开心/api.json", "name": "天天开心" },
 
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/香雅情/api.json", "name": "香雅情" },
-
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/南风/api.json", "name": "南风" },
-
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/骚零/api.json", "name": "骚零" },
-
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/OK/api.json", "name": "OK" },
 
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/白嫖/api.json", "name": "白嫖" },
 
@@ -43,8 +33,6 @@
 
 { "url": "https://tv.hh111.cloudns.org/tv/wodecang/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/动漫频道/api.json", "name": "动漫频道" },
-
-{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/tvboxqq/多多/api.json", "name": "多多" }
+{ "url": "https://tv.hh111.cloudns.org/tv/wodecang/动漫频道/api.json", "name": "动漫频道" }
      ]
    }
